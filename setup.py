@@ -184,7 +184,7 @@ PACKAGE_DIR = {
 }
 
 setup(
-    name='pemja',
+    name='pemja-inner',
     version=VERSION,
     packages=["pemja"],
     include_package_data=True,
